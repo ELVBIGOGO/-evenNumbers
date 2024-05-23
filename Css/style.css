@@ -1,0 +1,39 @@
+body{
+    background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    padding-left:80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    width: 450px;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top: 200px;
+}
+button{
+
+    font-size: 30px;
+    margin-right: 20px;
+    padding: 20px;
+    border: none;
+    color: aliceblue;
+    border-radius: 20px;
+}
+.restart{
+    background-color: rgb(33, 216, 33);
+}
+.increase{
+    background-color:blue;
+
+}
+p{
+    padding-left: 80px;
+    font-size: 60px;
+    color: rgb(241, 162, 14);
+}
+
+h2{
+    font-size: 40px;
+}
